@@ -73,8 +73,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    # NB For ease of use make the to be accessed Globally on the PC.
     Achieved by adding the corresponding path to the ENVIRONMENT VARIABLE
    # Installation Process
-   - Go to cmd and type git clone https://github.com/robertmwenja4/Laravel-Fortify.git
-   - Next cd Laravel-Fortify then run "composer install"
+     - cd Laravel-Fortify then run "composer install"
    # To run the Application
    - Start the Xammp application.
    - start the Command prompt and navigate to where the project is.
@@ -82,4 +81,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    - It opens the vscode editor
    - Run php artisan serve to run the web server
    - Open anothe cmd panel
-# App Key =base64:LE11fz83R6cz0bbbdV7KYBtCznn+4fwaG4SLhOTlnq8=
+# App Key =base64:0vGqKpUH0TNaRF5bGxavqWd0x6swwcX3nmVvL0DlhjY=
