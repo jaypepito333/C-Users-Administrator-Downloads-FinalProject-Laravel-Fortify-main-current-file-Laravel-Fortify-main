@@ -121,7 +121,7 @@
                     <label for="nav-toggle">
                         <span class="las la-bars"></span>
                     </label>
-                    <span class="navbar-brand">{{ "TRIPPLE A" }}</span>
+                    <span class="navbar-brand">{{ "TRIAPLE A" }}</span>
                     {{-- <a class="navbar-brand" href="#">{{ "Luggage Tracking System" }}</a> --}}
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
