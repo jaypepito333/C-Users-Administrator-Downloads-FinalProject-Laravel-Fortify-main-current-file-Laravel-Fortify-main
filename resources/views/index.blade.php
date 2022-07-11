@@ -45,8 +45,10 @@
             <div class="card">
                 <div class="card-header">
                     <h3>Recent Flights</h3>
-
+                    @can('is-admin')
                     <a href="{{ route('admin.flights.index') }}"><button>See all<span class="las la-arrow-right"></span></button></a>
+                    @endcan
+                    
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
